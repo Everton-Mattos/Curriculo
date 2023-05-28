@@ -1,0 +1,20 @@
+h1{
+    background-color: gray;
+    text-align: center;
+}
+h2{
+    background-color: gray;
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+    max-width: 150px;
+    border: 1px solid black;        
+}
+h4{
+    background-color: #ffffff;    
+}
+body{
+    background-color: #c2c3c4;
+}
+
